@@ -82,8 +82,8 @@ Configure WooCommerce and payment settings.
 4. **Import Demo Data (optional):**
 
 Use WordPress Importer to load sample events, décor, and catering options.
-📦 Folder Structure
-EventEase/
+## 📦 Folder Structure
+Festiva/
 ├── assets/
 │   ├── css/
 │   ├── js/
@@ -99,6 +99,7 @@ EventEase/
 ├── functions.php
 ├── style.css
 └── README.md
+
 
 🧠 Future Enhancements
 
