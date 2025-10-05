@@ -82,26 +82,8 @@ Configure WooCommerce and payment settings.
 4. **Import Demo Data (optional):**
 
 Use WordPress Importer to load sample events, décor, and catering options.
-## 📦 Folder Structure
-Festiva/
-├── assets/
-│   ├── css/
-│   ├── js/
-│   └── images/
-├── templates/
-│   ├── event-list.php
-│   ├── catering-options.php
-│   └── booking-form.php
-├── includes/
-│   ├── custom-post-types.php
-│   ├── payment-handler.php
-│   └── ai-chat.php
-├── functions.php
-├── style.css
-└── README.md
 
-
-🧠 Future Enhancements
+## 🧠 Future Enhancements
 
 AI Event Planner Assistant
 
