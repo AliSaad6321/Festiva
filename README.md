@@ -96,10 +96,10 @@ Real-Time Event Cost Estimator
 Customer Loyalty Program
 
 ## 🤝 Contributors
-Name	Role
-Salman Ahmed Developer
-Ali Saad Developer
-Adnan Ali Develpor
+|Name|	Role|
+|Salman Ahmed |Developer|
+|Ali Saad |Developer|
+|Adnan Ali |Develpor|
 ## 📄 License
 
 This project is licensed under the MIT License – free to use, modify, and distribute.
