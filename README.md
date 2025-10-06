@@ -1,6 +1,5 @@
 
-
-  <div align="centre"><img src="logo.png" width="200" alt="festiva"></div>
+<h1 align="centre"><img src="logo.png" width="200" alt="festiva"></h1>
 
 ## 🎉 Festiva – Smart Event Planning & Booking Platform
 
