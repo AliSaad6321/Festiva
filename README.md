@@ -1,4 +1,8 @@
-# 🎉 Festiva – Smart Event Planning & Booking Platform
+
+
+  <img src="logo.jpeg" width="200" alt="festiva">
+
+## 🎉 Festiva – Smart Event Planning & Booking Platform
 
 Festiva is a WordPress-based event planning and booking website that allows customers to **customize their event décor and catering**, choose add-ons, set a date and venue, and make secure online payments — all from one platform.
 
