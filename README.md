@@ -1,21 +1,37 @@
 
-<h1 align="centre"><img src="logo.png" width="200" alt="festiva"></h1>
 
-## 🎉 Festiva – Smart Event Planning & Booking Platform
+<p align="center">
+  <img src="logo.png" width="200" alt="festiva">
+</p>
+
+
+
+##  Festiva – Smart Event Planning & Booking Platform
 
 Festiva is a WordPress-based event planning and booking website that allows customers to **customize their event décor and catering**, choose add-ons, set a date and venue, and make secure online payments — all from one platform.
 
 ---
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#features">Key Features</a> •
+  <a href="#technology">Tech Stack</a> •
+  <a href="#installation">Setup</a> •
+  <a href="#enhancements">Future Enhancements</a> •
+    <a href="#contributors">Stats</a> •
+  <a href="#license">Credits</a> •
+  <a href="#contact">Contact</a>
+</p>
 
-## 🌐 Overview
+
+##  Overview
 
 Festiva simplifies event management by offering a one-stop solution for **decor**, **food**, and **add-ons**. Customers can explore event types, customize their preferences, and confirm bookings instantly through online payments. The company manages all operations (no vendor system), ensuring quality and consistency.
 
 ---
 
-## 🧩 Key Features
+##  Features
 
-### 👤 Customer Features
+###  Customer Features
 - **Browse Event Types** – Explore various event categories and themes.
 - **Customize Décor** – Choose lighting, flowers, seating, and more.
 - **Select Catering Options** – Breakfast, lunch, dinner, or hi-tea menus.
@@ -27,20 +43,20 @@ Festiva simplifies event management by offering a one-stop solution for **decor*
 - **Feedback & Ratings** – Share your experience after the event.
 - **AI Chatbot / Support** – Get instant assistance from AI or live chat.
 
-### 🛠️ Admin (Company) Features
+###  Admin (Company) Features
 - Manage Event Categories & Décor Packages  
 - Manage Catering Menus & Add-ons  
 - Track Bookings and Confirm Payments  
 - Manage Availability and Handle Cancellations  
 - Review Feedback and Send Promotions  
 
-### 💳 Payment & Booking
+###  Payment & Booking
 - Apply Discounts or Coupons  
 - Refund Handling for Cancellations  
 - Download Invoices  
 - Support for Future Installment Feature  
 
-### 🌍 General Features
+###  General Features
 - Search by Location  
 - Real-Time Availability  
 - Wishlist  
@@ -49,7 +65,7 @@ Festiva simplifies event management by offering a one-stop solution for **decor*
 
 ---
 
-## 🏗️ Tech Stack
+##  Technology
 
 | Component | Technology |
 |------------|-------------|
@@ -62,7 +78,7 @@ Festiva simplifies event management by offering a one-stop solution for **decor*
 
 ---
 
-## 🚀 Installation & Setup
+##  Installation
 
 1. **Clone this repository:**
    ```bash
@@ -86,7 +102,7 @@ Configure WooCommerce and payment settings.
 
 Use WordPress Importer to load sample events, décor, and catering options.
 
-## 🧠 Future Enhancements
+##  Enhancements
 
 AI Event Planner Assistant
 
@@ -98,18 +114,18 @@ Real-Time Event Cost Estimator
 
 Customer Loyalty Program
 
-## 🤝 Contributors
-|Name|	Role|
-|Salman Ahmed |Developer|
-|Ali Saad |Developer|
-|Adnan Ali |Develpor|
-## 📄 License
+##  Contributors
+
+Salman Ahmed -> Product Owner<br>
+Ali Saad -> Scrum Master<br>
+Adnan Ali -> dev team member<br>
+##  License
 
 This project is licensed under the MIT License – free to use, modify, and distribute.
 
-## 💬 Contact
+##  Contact
 
 For queries or feedback, contact:
-## 📧 info@festiva.com
+##  info@festiva.com
 
-## 🌐 []
+
