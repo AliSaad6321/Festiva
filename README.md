@@ -28,7 +28,8 @@ Festiva is a WordPress-based event planning and booking website that allows cust
 Festiva simplifies event management by offering a one-stop solution for **decor**, **food**, and **add-ons**. Customers can explore event types, customize their preferences, and confirm bookings instantly through online payments. The company manages all operations (no vendor system), ensuring quality and consistency.
 
 ---
-
+ <img src="festiva.infinityfree.me_.png" width="1000" alt="festiva">
+ ---
 ##  Features
 
 ###  Customer Features
